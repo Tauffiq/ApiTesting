@@ -1,0 +1,14 @@
+{
+  "machine_name": "Daikin UATN90CGY1X 19.0 HP",
+  "temperature_sensors": [
+    {
+      "temperature_c": 42.8
+    }
+  ],
+  "fan_speeds": {
+    "fan_3": 300,
+    "fan_4": 350
+  },
+  "air_flow_rate": 7000,
+  "rated_cooling_capacity_btu_h": 150000
+}
