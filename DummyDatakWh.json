@@ -1,67 +1,69 @@
 {
-  "timestamp": "2023-11-15T12:00:00Z",
-  "whole_building_kWh": 1250.75,
-  "floors": [
-    {
-      "floor_id": "floor_1",
-      "floor_name": "Ground Floor",
-      "total_kWh": 450.25,
-      "rooms": [
-        {
-          "room_id": "room_101",
-          "room_name": "Lobby",
-          "kWh": 120.50
-        },
-        {
-          "room_id": "room_102",
-          "room_name": "Conference Room",
-          "kWh": 85.75
-        },
-        {
-          "room_id": "room_103",
-          "room_name": "Cafeteria",
-          "kWh": 244.00
-        }
-      ]
-    },
-    {
-      "floor_id": "floor_2",
-      "floor_name": "First Floor",
-      "total_kWh": 500.50,
-      "rooms": [
-        {
-          "room_id": "room_201",
-          "room_name": "Office A",
-          "kWh": 150.25
-        },
-        {
-          "room_id": "room_202",
-          "room_name": "Office B",
-          "kWh": 200.50
-        },
-        {
-          "room_id": "room_203",
-          "room_name": "Server Room",
-          "kWh": 149.75
-        }
-      ]
-    },
-    {
-      "floor_id": "floor_3",
-      "floor_name": "Second Floor",
-      "total_kWh": 300.00,
-      "rooms": [
-        {
-          "room_id": "room_301",
-          "room_name": "Lab A",
-          "kWh": 180.00
-        },
-        {
-          "room_id": "room_302",
-          "room_name": "Lab B",
-          "kWh": 120.00
-        }
-      ]
-    }
-  ]
+  "building": {
+    "timestamp": "2023-11-15T12:00:00Z",
+    "whole_building_kWh": 1250.75,
+    "floors": [
+      {
+        "floor_id": "floor_1",
+        "floor_name": "Ground Floor",
+        "total_kWh": 450.25,
+        "rooms": [
+          {
+            "room_id": "room_101",
+            "room_name": "Lobby",
+            "kWh": 120.50
+          },
+          {
+            "room_id": "room_102",
+            "room_name": "Conference Room",
+            "kWh": 85.75
+          },
+          {
+            "room_id": "room_103",
+            "room_name": "Cafeteria",
+            "kWh": 244.00
+          }
+        ]
+      },
+      {
+        "floor_id": "floor_2",
+        "floor_name": "First Floor",
+        "total_kWh": 500.50,
+        "rooms": [
+          {
+            "room_id": "room_201",
+            "room_name": "Office A",
+            "kWh": 150.25
+          },
+          {
+            "room_id": "room_202",
+            "room_name": "Office B",
+            "kWh": 200.50
+          },
+          {
+            "room_id": "room_203",
+            "room_name": "Server Room",
+            "kWh": 149.75
+          }
+        ]
+      },
+      {
+        "floor_id": "floor_3",
+        "floor_name": "Second Floor",
+        "total_kWh": 300.00,
+        "rooms": [
+          {
+            "room_id": "room_301",
+            "room_name": "Lab A",
+            "kWh": 180.00
+          },
+          {
+            "room_id": "room_302",
+            "room_name": "Lab B",
+            "kWh": 120.00
+          }
+        ]
+      }
+    ]
+  }
 }
