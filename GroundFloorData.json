@@ -1,0 +1,104 @@
+{
+  "building_id": "Matrade",
+  "building_name": "Ground Floor",
+  "unit": "kWh",
+  "time_interval_minutes": 60,
+  "historical_data": [
+    {
+      "timestamp": "00:00",
+      "kWh_usage": 287
+    },
+    {
+      "timestamp": "01:00",
+      "kWh_usage": 356
+    },
+    {
+      "timestamp": "02:00",
+      "kWh_usage": 278
+    },
+    {
+      "timestamp": "03:00",
+      "kWh_usage": 267
+    },
+    {
+      "timestamp": "04:00",
+      "kWh_usage": 325
+    },
+    {
+      "timestamp": "05:00",
+      "kWh_usage": 412
+    },
+    {
+      "timestamp": "06:00",
+      "kWh_usage": 543
+    },
+    {
+      "timestamp": "07:00",
+      "kWh_usage": 688
+    },
+    {
+      "timestamp": "08:00",
+      "kWh_usage": 789
+    },
+    {
+      "timestamp": "09:00",
+      "kWh_usage": 856
+    },
+    {
+      "timestamp": "10:00",
+      "kWh_usage": 764
+    },
+    {
+      "timestamp": "11:00",
+      "kWh_usage": 689
+    },
+    {
+      "timestamp": "12:00",
+      "kWh_usage": 598
+    },
+    {
+      "timestamp": "13:00",
+      "kWh_usage": 512
+    },
+    {
+      "timestamp": "14:00",
+      "kWh_usage": 432
+    },
+    {
+      "timestamp": "15:00",
+      "kWh_usage": 368
+    },
+    {
+      "timestamp": "16:00",
+      "kWh_usage": 379
+    },
+    {
+      "timestamp": "17:00",
+      "kWh_usage": 457
+    },
+    {
+      "timestamp": "18:00",
+      "kWh_usage": 524
+    },
+    {
+      "timestamp": "19:00",
+      "kWh_usage": 433
+    },
+    {
+      "timestamp": "20:00",
+      "kWh_usage": 367
+    },
+    {
+      "timestamp": "21:00",
+      "kWh_usage": 298
+    },
+    {
+      "timestamp": "22:00",
+      "kWh_usage": 246
+    },
+    {
+      "timestamp": "23:00",
+      "kWh_usage": 287
+    }
+  ]
+}
